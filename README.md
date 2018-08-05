@@ -21,4 +21,6 @@
   > case1:
 	../ycm_core.so: undefined symbol: PyUnicodeUCS4_FromEncodedObject 
   >> 使用--enable-unicode=ucs4 参数重新编译python
+ 
+ ## 4、
 
