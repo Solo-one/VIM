@@ -22,5 +22,6 @@
 	../ycm_core.so: undefined symbol: PyUnicodeUCS4_FromEncodedObject 
   >> 使用--enable-unicode=ucs4 参数重新编译python
  
- ## 4、
+## 4、vim配置
+
 
